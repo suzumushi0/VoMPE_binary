@@ -1,0 +1,25 @@
+Installation
+
+(1) Unzip the file. Then you will see the following FOLDER and file.
+  VoMPE.vst3	contains VoMPE plug-in.
+
+(2) VoMPE.vst3 to C:\Program Files\Common Files\VST3
+
+Note: "VoMPE.vst3" is a FOLDER in the unzipped file.
+It is NOT "VoMPE.vst3\Contents\x86_64-win\VoMPE.vst3".
+
+Enjoy.
+
+
+インストール方法
+
+(1) ファイルを解凍すると，以下の「フォルダ」とファイルがある．
+  VoMPE.vst3	VoMPE プラグイン
+
+(2) VoMPE.vst3 を C:\Program Files\Common Files\VST3 にコピー
+
+Note: "VoMPE.vst3" は解凍したファイルにある「フォルダ」です．
+"VoMPE.vst3\Contents\x86_64-win\VoMPE.vst3" ではありません．
+
+Enjoy.
+
